@@ -1,0 +1,17 @@
+.a{
+    height: 100px;
+    width: 500px;
+    background-color:#c8072c;
+
+    justify-content: center;
+}
+.b{
+    height: 100px;
+    width: 500px;
+    background-color: #fbfbfb;
+}
+.c{
+    height: 100px;
+    width: 500px;
+    background-color: #c8072c;
+}
